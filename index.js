@@ -14,7 +14,7 @@ const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
 ╔════◇
-║ *『 WOW YOU CHOOSE lou-md 』*
+║ *『 WOW YOU CHOOSE HIRO-BUG BOT 』*
 ║ _You complete first step to making Bot._
 ╚════════════════════════╝
 ╔═════◇
