@@ -3,13 +3,13 @@
   <html>
    <body>
   <p align="center">  
-  <a aria-label="FORK" href="https://github.com/MAGICAL-KX/Secktor-bot/fork" target="_blank">
-    <img alt="License: GPL-3" src="https://img.shields.io/github/stars/SuhailTechInfo/web-qr?style=social" target="_blank" />
+  <a aria-label="FORK" href="https://github.com/MAGICAL-KX/king-kenton-session/fork" target="_blank">
+    <img alt="License: GPL-3" src="https://img.shields.io/github/stars/MAGICAL-KX/king-session-session?style=social" target="_blank" />
   </a>
-  <a aria-label="Suhail_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
-    <img alt="SuhailTechInfo" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="HIRO BUG is free to use" href="https://KentonX-tech" target="_blank">
+    <img alt="MAGICAL-KX" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
-    <p align="center"><img src="https://profile-counter.glitch.me/{smd-web-qr}/count.svg" alt="SuhailTechInfo :: Visitor's Count" /></p>
+    <p align="center"><img src="https://profile-counter.glitch.me/{smd king-kenton-session}/count.svg" alt="MAGICAL-KX :: Visitor's Count" /></p>
 
      
   </body>
@@ -18,7 +18,7 @@
 
 ## Deployment Methods
 ---
-1.  ***Click [`FORK`](https://github.com/SuhailTechInfo/web-qr/fork) and `Star ⭐ Repository` if you get help from repo.***
+1.  ***Click [`FORK`](https://github.com/MAGICAL-KX/king-kenton-session/fork) and `Star ⭐ Repository` if you get help from repo.***
 2.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/web-qr).***
 3.  ***Deploy on [`REPLIT`](https://replit.com/github/SuhailTechInfo/web-qr).***
 4. ***Deploy on [`RENDER`](https://dashboard.render.com/login).***
@@ -81,5 +81,5 @@ RENDER PROCESS:
 
 
 
-## MADE WITH ❤️
-[![SuhailTechIinfo](https://github.com/SuhailTechInfo.png?size=300)](https://github.com/SuhailTechInfo)
+## MADE WITH THE MAN ONLY HIM.. WE CALL HIM
+[![MAGICAL-KX](https://github.com/MAGICAL-KX.png?size=300)](MAGICAL-KX)
