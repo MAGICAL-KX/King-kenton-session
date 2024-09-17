@@ -34,7 +34,7 @@ const MESSAGE = process.env.MESSAGE ||  `
 •sᴜᴘᴘᴏʀᴛ ᴍᴇ ᴏɴ ʏᴏᴜ-ᴛᴜʙᴇ•
 https://www.youtube.com/KentonX-tec
 •sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ•
-https://whatsapp.com/channel/0029VaGvk6XId7nHNGfiRs0m
+https://chat.whatsapp.com/BSFZGh0YT3K9NHDt4UJmZy
 •ᴄʜᴇᴄᴋ ᴍʏ ᴡᴇʙ ꜰᴏʀ ᴍᴏʀᴇ• (REPO)
 https://github.com/MAGICAL-KX
 `
