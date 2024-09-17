@@ -13,17 +13,30 @@ const fs = require("fs-extra");
 const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
-╔════◇
-║ *『 WOW YOU CHOOSE HIRO-BUG BOT 』*
-║ _You complete first step to making Bot._
-╚════════════════════════╝
-╔═════◇
-║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║ *Ytube:* _youtube.com/KentonX-tech_
-║ *Owner:* _https://wa.me/263789432940_
-║ *Note :*_Don't provide your SESSION_ID to_
-║ _anyone otherwise that can access chats_
-╚════════════════════════╝
+┏━━⟪⟪ 𝕭𝖀𝕲 ⟫━⦿
+┃✗『 •ᴀᴍᴀᴢɪɴɢ ʏᴏᴜ ᴄʜᴏᴏsᴇ• 』
+┃✗              •𝐇𝐈𝐑𝐎 ᴹᴰ•
+┃✗ •ʏᴏᴜ sᴜᴄᴄᴇssғᴜʟʟʏ ᴜsᴇᴅ•
+┃✗ •ᴘᴀɪʀ ᴄᴏᴅᴇ ғᴏʀ sᴇssɪᴏɴ•
+┃✗ •ᴏᴡɴᴇʀ• 𝕸𝕬𝕲𝕴𝕮𝕬𝕷 𝕶𝖃
+┃✗ •ɴᴏᴛᴇ• ᴅᴏɴ'ᴛ ᴘʀᴏᴠɪᴅᴇ ʏᴏᴜʀ
+┃✗ sᴇssɪᴏɴ ɪᴅ ᴛᴏ ᴀɴʏ-ᴏɴᴇ 
+┃✗ 
+┃✗ 
+┃✗ PLEASE DON'T FORGET
+┃✗ TO STAR MY REPO
+┃✗ FOLLOW MY CHANNELS
+┃✗ CHAT FOR CHAT
+┃✗ JOIN MY GROUP
+┃✗ AND SUBSCRIBE YT
+┗━━━━━━━━━━⦿
+
+•sᴜᴘᴘᴏʀᴛ ᴍᴇ ᴏɴ ʏᴏᴜ-ᴛᴜʙᴇ•
+https://www.youtube.com/KentonX-tec
+•sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ•
+https://whatsapp.com/channel/0029VaGvk6XId7nHNGfiRs0m
+•ᴄʜᴇᴄᴋ ᴍʏ ᴡᴇʙ ꜰᴏʀ ᴍᴏʀᴇ• (REPO)
+https://github.com/MAGICAL-KX
 `
 
 
